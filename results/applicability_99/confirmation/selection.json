@@ -1,0 +1,68 @@
+{
+  "force_only": {
+    "admissible": true,
+    "candidate_id": "force_only_f0p03",
+    "composition": "force_only",
+    "force_direction": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "modulation_frequency_hz": 0.03,
+    "moment_direction": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "orientation_improvement_percent": 5.888100771233637,
+    "position_improvement_percent": 12.99319722506639,
+    "primary_improvement_percent": 12.99319722506639,
+    "relative_scale": 0.35,
+    "seed": 0,
+    "selection_source": "bandwidth"
+  },
+  "mixed": {
+    "admissible": true,
+    "candidate_id": "mixed_zx_s55",
+    "composition": "mixed",
+    "force_direction": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "modulation_frequency_hz": 0.0,
+    "moment_direction": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "orientation_improvement_percent": 66.86728873999958,
+    "position_improvement_percent": 60.591785778132746,
+    "primary_improvement_percent": 63.72953725906616,
+    "relative_scale": 0.55,
+    "seed": 0,
+    "selection_source": "admissible_static_fallback"
+  },
+  "moment_only": {
+    "admissible": true,
+    "candidate_id": "moment_y_s55",
+    "composition": "moment_only",
+    "force_direction": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "modulation_frequency_hz": 0.0,
+    "moment_direction": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "orientation_improvement_percent": 68.48176329449764,
+    "position_improvement_percent": -4.201614470670369,
+    "primary_improvement_percent": 68.48176329449764,
+    "relative_scale": 0.55,
+    "seed": 0,
+    "selection_source": "admissible_static_fallback"
+  }
+}

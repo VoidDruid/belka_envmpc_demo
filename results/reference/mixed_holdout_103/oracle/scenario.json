@@ -1,0 +1,163 @@
+{
+  "cargo": {
+    "cargo_m": 0.0,
+    "cargo_pos_x": 0.0,
+    "cargo_pos_y": 0.0,
+    "cargo_pos_z": 0.0,
+    "cargo_x": 0.0,
+    "cargo_y": 0.0,
+    "cargo_z": 0.0
+  },
+  "cargo_estimation": {
+    "enabled": false,
+    "simulated_fit_duration_s": 5.0
+  },
+  "description": "Pre-registered truth-based EnvMPC applicability case.",
+  "engine_noise": {
+    "std_ratio": 0.1
+  },
+  "name": "paper1_applicability_confirmation_mixed_holdout_103_oracle",
+  "robot": {
+    "base_L": 0.0,
+    "base_m": 0.0,
+    "base_w": 0.0,
+    "extension_L": 0.0,
+    "impeller_power_left": 1.0,
+    "impeller_power_right": 1.0,
+    "l": 0.05,
+    "side_L": 0.33,
+    "side_m": 2.0,
+    "side_w": 0.165,
+    "thruster_model": {
+      "impeller_power_to_side_limit_n": {
+        "x": [
+          0.0,
+          0.4,
+          0.6,
+          0.8,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.07874495052942662,
+          0.12856262945807478,
+          0.17722799413776394,
+          0.2238621644804581
+        ]
+      },
+      "impeller_power_to_single_max_fraction": {
+        "x": [
+          0.0,
+          0.25,
+          0.4,
+          0.5,
+          0.6,
+          0.8,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.18269468195061742,
+          0.3779936404230252,
+          0.41527302186387216,
+          0.570459413670469,
+          0.8820950698896219,
+          1.0
+        ]
+      },
+      "per_thruster_max_force_n": [
+        0.14681386622783454,
+        0.10164807419551308,
+        0.12975171812514139,
+        0.13942210365931357,
+        0.11698809295880698,
+        0.1318078261198812,
+        0.13602788813770042,
+        0.14233464316960645,
+        0.1339178571287908,
+        0.1339178571287908,
+        0.1339178571287908,
+        0.1339178571287908
+      ],
+      "side_force_groups": [
+        [
+          1,
+          2,
+          6,
+          7,
+          8,
+          10
+        ],
+        [
+          0,
+          3,
+          4,
+          5,
+          9,
+          11
+        ]
+      ],
+      "valve_opening_to_fraction": {
+        "midpoint": 0.6783579913993736,
+        "steepness": 9.14049808902426
+      },
+      "valve_response_per_s": 4.0
+    }
+  },
+  "run": {
+    "full_odom_hz": 5.0,
+    "highfreq_odom_hz": 20.0,
+    "hold_time": 5.0,
+    "initial_angles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "initial_p": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "seed": 103,
+    "t_max": 60.0,
+    "target_angles": [
+      0.15,
+      -0.12,
+      0.35
+    ],
+    "target_p": [
+      0.65,
+      0.5,
+      1.25
+    ],
+    "trajectory_t": 15.0
+  },
+  "sensor_noise": {
+    "accel_std": 0.02,
+    "attitude_bias_rad": 0.019198621771937627,
+    "attitude_fast_amplitude_rad": 0.002617993877991494,
+    "attitude_fast_freq": 0.07,
+    "attitude_slow_amplitude_rad": 0.017453292519943295,
+    "attitude_slow_freq": 0.011,
+    "omega_std": 0.015,
+    "position_bias_m": 0.01,
+    "position_fast_amplitude_m": 0.0025,
+    "position_fast_freq": 0.09,
+    "position_slow_amplitude_m": 0.016,
+    "position_slow_freq": 0.013
+  },
+  "visualization": {
+    "show_front_arrows": true,
+    "show_perceived_position": true
+  },
+  "wind": {
+    "force_ratio": 0.0,
+    "jitter_freq": 0.35,
+    "jitter_tube_ratio": 0.12,
+    "mean_freq": 0.004,
+    "moment_lever_scale": 0.5,
+    "secondary_ratio": 0.7,
+    "tertiary_ratio": 0.3,
+    "wave_amplitude_ratio": 0.25
+  }
+}

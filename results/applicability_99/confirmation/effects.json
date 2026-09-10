@@ -1,0 +1,137 @@
+[
+  {
+    "candidate_id": "force_only_holdout_101",
+    "composition": "force_only",
+    "env_closer_to_oracle": false,
+    "improvement_percent": 7.682084467264743,
+    "orientation_improvement_percent": -11.252496465588202,
+    "position_improvement_percent": 7.682084467264743,
+    "primary_metric": "tracking_position_rmse_m"
+  },
+  {
+    "candidate_id": "force_only_holdout_102",
+    "composition": "force_only",
+    "env_closer_to_oracle": false,
+    "improvement_percent": 16.042691664755505,
+    "orientation_improvement_percent": -3.014306923772612,
+    "position_improvement_percent": 16.042691664755505,
+    "primary_metric": "tracking_position_rmse_m"
+  },
+  {
+    "candidate_id": "force_only_holdout_103",
+    "composition": "force_only",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 2.0300364680656173,
+    "orientation_improvement_percent": -7.605353323696946,
+    "position_improvement_percent": 2.0300364680656173,
+    "primary_metric": "tracking_position_rmse_m"
+  },
+  {
+    "candidate_id": "force_only_holdout_104",
+    "composition": "force_only",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 18.702584682421353,
+    "orientation_improvement_percent": -33.00068850419545,
+    "position_improvement_percent": 18.702584682421353,
+    "primary_metric": "tracking_position_rmse_m"
+  },
+  {
+    "candidate_id": "force_only_holdout_105",
+    "composition": "force_only",
+    "env_closer_to_oracle": false,
+    "improvement_percent": 8.785388482707154,
+    "orientation_improvement_percent": 1.8194406904559508,
+    "position_improvement_percent": 8.785388482707154,
+    "primary_metric": "tracking_position_rmse_m"
+  },
+  {
+    "candidate_id": "mixed_holdout_101",
+    "composition": "mixed",
+    "env_closer_to_oracle": false,
+    "improvement_percent": 37.37503441701644,
+    "orientation_improvement_percent": 56.6524804140013,
+    "position_improvement_percent": 18.09758842003157,
+    "primary_metric": "mean_relative_position_orientation_improvement"
+  },
+  {
+    "candidate_id": "mixed_holdout_102",
+    "composition": "mixed",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 24.977451760762968,
+    "orientation_improvement_percent": 49.49363327166609,
+    "position_improvement_percent": 0.4612702498598434,
+    "primary_metric": "mean_relative_position_orientation_improvement"
+  },
+  {
+    "candidate_id": "mixed_holdout_103",
+    "composition": "mixed",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 38.85160009512825,
+    "orientation_improvement_percent": 55.043440386199485,
+    "position_improvement_percent": 22.65975980405701,
+    "primary_metric": "mean_relative_position_orientation_improvement"
+  },
+  {
+    "candidate_id": "mixed_holdout_104",
+    "composition": "mixed",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 16.773179519155036,
+    "orientation_improvement_percent": 25.07805196110321,
+    "position_improvement_percent": 8.468307077206866,
+    "primary_metric": "mean_relative_position_orientation_improvement"
+  },
+  {
+    "candidate_id": "mixed_holdout_105",
+    "composition": "mixed",
+    "env_closer_to_oracle": false,
+    "improvement_percent": 5.4082547069904585,
+    "orientation_improvement_percent": 35.30742176848757,
+    "position_improvement_percent": -24.490912354506655,
+    "primary_metric": "mean_relative_position_orientation_improvement"
+  },
+  {
+    "candidate_id": "moment_only_holdout_101",
+    "composition": "moment_only",
+    "env_closer_to_oracle": true,
+    "improvement_percent": -312.2031016671926,
+    "orientation_improvement_percent": -312.2031016671926,
+    "position_improvement_percent": 1.3431400243835199,
+    "primary_metric": "tracking_orientation_rmse_rad"
+  },
+  {
+    "candidate_id": "moment_only_holdout_102",
+    "composition": "moment_only",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 65.81004157873231,
+    "orientation_improvement_percent": 65.81004157873231,
+    "position_improvement_percent": 3.4860855321426243,
+    "primary_metric": "tracking_orientation_rmse_rad"
+  },
+  {
+    "candidate_id": "moment_only_holdout_103",
+    "composition": "moment_only",
+    "env_closer_to_oracle": false,
+    "improvement_percent": 80.44515926658644,
+    "orientation_improvement_percent": 80.44515926658644,
+    "position_improvement_percent": 69.36425446323025,
+    "primary_metric": "tracking_orientation_rmse_rad"
+  },
+  {
+    "candidate_id": "moment_only_holdout_104",
+    "composition": "moment_only",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 67.71927814669665,
+    "orientation_improvement_percent": 67.71927814669665,
+    "position_improvement_percent": 2.875611740691036,
+    "primary_metric": "tracking_orientation_rmse_rad"
+  },
+  {
+    "candidate_id": "moment_only_holdout_105",
+    "composition": "moment_only",
+    "env_closer_to_oracle": true,
+    "improvement_percent": 87.19736344793452,
+    "orientation_improvement_percent": 87.19736344793452,
+    "position_improvement_percent": -17.64318427095026,
+    "primary_metric": "tracking_orientation_rmse_rad"
+  }
+]

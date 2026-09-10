@@ -1,0 +1,447 @@
+{
+  "effects": [
+    {
+      "admissible": true,
+      "candidate_id": "force_x_s35",
+      "composition": "force_only",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 0.9526404108021969,
+      "position_improvement_percent": 14.69853350009163,
+      "primary_improvement_percent": 14.69853350009163,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": false,
+      "candidate_id": "force_x_s55",
+      "composition": "force_only",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 6.571564652798356,
+      "position_improvement_percent": -17.606874127231762,
+      "primary_improvement_percent": -17.606874127231762,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "force_y_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 0.3681310922011429,
+      "position_improvement_percent": 39.613036570600904,
+      "primary_improvement_percent": 39.613036570600904,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": false,
+      "candidate_id": "force_y_s55",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": -60.80746094920175,
+      "position_improvement_percent": -15.186322903663912,
+      "primary_improvement_percent": -15.186322903663912,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "force_z_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": -20.714579254088676,
+      "position_improvement_percent": 17.09906494593492,
+      "primary_improvement_percent": 17.09906494593492,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": false,
+      "candidate_id": "force_z_s55",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": -11.974569412254407,
+      "position_improvement_percent": 15.232617151430485,
+      "primary_improvement_percent": 15.232617151430485,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "mixed_xy_s35",
+      "composition": "mixed",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 20.88540822556757,
+      "position_improvement_percent": 0.9542193763031224,
+      "primary_improvement_percent": 10.919813800935346,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "mixed_xy_s55",
+      "composition": "mixed",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 65.1618085009097,
+      "position_improvement_percent": 19.710699841257483,
+      "primary_improvement_percent": 42.43625417108359,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "mixed_yz_s35",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "orientation_improvement_percent": 44.29749995793219,
+      "position_improvement_percent": 10.853711333433022,
+      "primary_improvement_percent": 27.575605645682607,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "mixed_yz_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "orientation_improvement_percent": 38.75810006137667,
+      "position_improvement_percent": 20.888365448826796,
+      "primary_improvement_percent": 29.823232755101735,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "mixed_zx_s35",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 0.4639470137623877,
+      "position_improvement_percent": 0.8002492710669015,
+      "primary_improvement_percent": 0.6320981424146446,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "mixed_zx_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 66.86728873999958,
+      "position_improvement_percent": 60.591785778132746,
+      "primary_improvement_percent": 63.72953725906616,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "moment_x_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 67.78146510888028,
+      "position_improvement_percent": -19.246643179219138,
+      "primary_improvement_percent": 67.78146510888028,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "moment_x_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 66.05613385762018,
+      "position_improvement_percent": -8.340628553809786,
+      "primary_improvement_percent": 66.05613385762018,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "moment_y_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 21.142669871981806,
+      "position_improvement_percent": -43.23004823951526,
+      "primary_improvement_percent": 21.142669871981806,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "moment_y_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 68.48176329449764,
+      "position_improvement_percent": -4.201614470670369,
+      "primary_improvement_percent": 68.48176329449764,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    {
+      "admissible": true,
+      "candidate_id": "moment_z_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "orientation_improvement_percent": 62.10211246933418,
+      "position_improvement_percent": -4.558859376675404,
+      "primary_improvement_percent": 62.10211246933418,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    {
+      "admissible": false,
+      "candidate_id": "moment_z_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "orientation_improvement_percent": 46.35866595808093,
+      "position_improvement_percent": -41.62073455386829,
+      "primary_improvement_percent": 46.35866595808093,
+      "relative_scale": 0.55,
+      "seed": 0
+    }
+  ],
+  "selected": {
+    "force_only": {
+      "admissible": true,
+      "candidate_id": "force_y_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 0.3681310922011429,
+      "position_improvement_percent": 39.613036570600904,
+      "primary_improvement_percent": 39.613036570600904,
+      "relative_scale": 0.35,
+      "seed": 0
+    },
+    "mixed": {
+      "admissible": true,
+      "candidate_id": "mixed_zx_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 66.86728873999958,
+      "position_improvement_percent": 60.591785778132746,
+      "primary_improvement_percent": 63.72953725906616,
+      "relative_scale": 0.55,
+      "seed": 0
+    },
+    "moment_only": {
+      "admissible": true,
+      "candidate_id": "moment_y_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "orientation_improvement_percent": 68.48176329449764,
+      "position_improvement_percent": -4.201614470670369,
+      "primary_improvement_percent": 68.48176329449764,
+      "relative_scale": 0.55,
+      "seed": 0
+    }
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "cases": [
+    {
+      "candidate_id": "force_only_holdout_101",
+      "composition": "force_only",
+      "force_direction": [
+        -0.3489283707433713,
+        -0.8984829567479353,
+        0.26641578129657423
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_101",
+      "composition": "force_only",
+      "force_direction": [
+        -0.3489283707433713,
+        -0.8984829567479353,
+        0.26641578129657423
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_101",
+      "composition": "force_only",
+      "force_direction": [
+        -0.3489283707433713,
+        -0.8984829567479353,
+        0.26641578129657423
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_102",
+      "composition": "force_only",
+      "force_direction": [
+        0.2556895944545639,
+        0.8844006288336661,
+        0.3904591643261517
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_102",
+      "composition": "force_only",
+      "force_direction": [
+        0.2556895944545639,
+        0.8844006288336661,
+        0.3904591643261517
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_102",
+      "composition": "force_only",
+      "force_direction": [
+        0.2556895944545639,
+        0.8844006288336661,
+        0.3904591643261517
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_103",
+      "composition": "force_only",
+      "force_direction": [
+        0.6096565804586481,
+        -0.7071466048088675,
+        0.35813758977627475
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_103",
+      "composition": "force_only",
+      "force_direction": [
+        0.6096565804586481,
+        -0.7071466048088675,
+        0.35813758977627475
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_103",
+      "composition": "force_only",
+      "force_direction": [
+        0.6096565804586481,
+        -0.7071466048088675,
+        0.35813758977627475
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_104",
+      "composition": "force_only",
+      "force_direction": [
+        0.5573296509799271,
+        0.5554298336350941,
+        -0.6171558636573781
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_104",
+      "composition": "force_only",
+      "force_direction": [
+        0.5573296509799271,
+        0.5554298336350941,
+        -0.6171558636573781
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_104",
+      "composition": "force_only",
+      "force_direction": [
+        0.5573296509799271,
+        0.5554298336350941,
+        -0.6171558636573781
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_105",
+      "composition": "force_only",
+      "force_direction": [
+        -0.027015862538817593,
+        0.5318570808346119,
+        0.8464030888042463
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_105",
+      "composition": "force_only",
+      "force_direction": [
+        -0.027015862538817593,
+        0.5318570808346119,
+        0.8464030888042463
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "force_only_holdout_105",
+      "composition": "force_only",
+      "force_direction": [
+        -0.027015862538817593,
+        0.5318570808346119,
+        0.8464030888042463
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_101",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.13124903196037596,
+        -0.7552694663670031,
+        -0.6421384000222744
+      ],
+      "relative_scale": 0.55,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_101",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.13124903196037596,
+        -0.7552694663670031,
+        -0.6421384000222744
+      ],
+      "relative_scale": 0.55,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_101",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.13124903196037596,
+        -0.7552694663670031,
+        -0.6421384000222744
+      ],
+      "relative_scale": 0.55,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_102",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.3102267029077648,
+        0.5884082674303226,
+        -0.7466827329077749
+      ],
+      "relative_scale": 0.55,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_102",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.3102267029077648,
+        0.5884082674303226,
+        -0.7466827329077749
+      ],
+      "relative_scale": 0.55,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_102",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.3102267029077648,
+        0.5884082674303226,
+        -0.7466827329077749
+      ],
+      "relative_scale": 0.55,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_103",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.770883625187909,
+        -0.3725965707638674,
+        -0.5166335566648318
+      ],
+      "relative_scale": 0.55,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_103",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.770883625187909,
+        -0.3725965707638674,
+        -0.5166335566648318
+      ],
+      "relative_scale": 0.55,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_103",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.770883625187909,
+        -0.3725965707638674,
+        -0.5166335566648318
+      ],
+      "relative_scale": 0.55,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_104",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.9553578336124628,
+        0.1341751709858665,
+        0.2632269614728232
+      ],
+      "relative_scale": 0.55,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_104",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.9553578336124628,
+        0.1341751709858665,
+        0.2632269614728232
+      ],
+      "relative_scale": 0.55,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_104",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.9553578336124628,
+        0.1341751709858665,
+        0.2632269614728232
+      ],
+      "relative_scale": 0.55,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_105",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.2843950527367728,
+        -0.3013184433876076,
+        -0.9101245242566083
+      ],
+      "relative_scale": 0.55,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_105",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.2843950527367728,
+        -0.3013184433876076,
+        -0.9101245242566083
+      ],
+      "relative_scale": 0.55,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "moment_only_holdout_105",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.2843950527367728,
+        -0.3013184433876076,
+        -0.9101245242566083
+      ],
+      "relative_scale": 0.55,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_101",
+      "composition": "mixed",
+      "force_direction": [
+        -0.5108424938424212,
+        0.34833714029266827,
+        0.7859396816407617
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.4747266649271617,
+        0.7101641361129367,
+        0.5199052734740248
+      ],
+      "relative_scale": 0.55,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_101",
+      "composition": "mixed",
+      "force_direction": [
+        -0.5108424938424212,
+        0.34833714029266827,
+        0.7859396816407617
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.4747266649271617,
+        0.7101641361129367,
+        0.5199052734740248
+      ],
+      "relative_scale": 0.55,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_101",
+      "composition": "mixed",
+      "force_direction": [
+        -0.5108424938424212,
+        0.34833714029266827,
+        0.7859396816407617
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.4747266649271617,
+        0.7101641361129367,
+        0.5199052734740248
+      ],
+      "relative_scale": 0.55,
+      "seed": 101,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_102",
+      "composition": "mixed",
+      "force_direction": [
+        -0.09452562224430057,
+        -0.1901616176284293,
+        0.9771916219044589
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.641512444364072,
+        0.7667014311673711,
+        -0.025113724772295162
+      ],
+      "relative_scale": 0.55,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_102",
+      "composition": "mixed",
+      "force_direction": [
+        -0.09452562224430057,
+        -0.1901616176284293,
+        0.9771916219044589
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.641512444364072,
+        0.7667014311673711,
+        -0.025113724772295162
+      ],
+      "relative_scale": 0.55,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_102",
+      "composition": "mixed",
+      "force_direction": [
+        -0.09452562224430057,
+        -0.1901616176284293,
+        0.9771916219044589
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.641512444364072,
+        0.7667014311673711,
+        -0.025113724772295162
+      ],
+      "relative_scale": 0.55,
+      "seed": 102,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_103",
+      "composition": "mixed",
+      "force_direction": [
+        -0.8875088765205269,
+        0.19658060295098642,
+        0.41675419690831994
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.34774510069168296,
+        -0.9345008731616884,
+        -0.0760359323279017
+      ],
+      "relative_scale": 0.55,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_103",
+      "composition": "mixed",
+      "force_direction": [
+        -0.8875088765205269,
+        0.19658060295098642,
+        0.41675419690831994
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.34774510069168296,
+        -0.9345008731616884,
+        -0.0760359323279017
+      ],
+      "relative_scale": 0.55,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_103",
+      "composition": "mixed",
+      "force_direction": [
+        -0.8875088765205269,
+        0.19658060295098642,
+        0.41675419690831994
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.34774510069168296,
+        -0.9345008731616884,
+        -0.0760359323279017
+      ],
+      "relative_scale": 0.55,
+      "seed": 103,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_104",
+      "composition": "mixed",
+      "force_direction": [
+        0.41402536963242415,
+        -0.6673918332761225,
+        0.619008185872425
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.8442934590824742,
+        -0.45237365708554816,
+        0.28727448429263097
+      ],
+      "relative_scale": 0.55,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_104",
+      "composition": "mixed",
+      "force_direction": [
+        0.41402536963242415,
+        -0.6673918332761225,
+        0.619008185872425
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.8442934590824742,
+        -0.45237365708554816,
+        0.28727448429263097
+      ],
+      "relative_scale": 0.55,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_104",
+      "composition": "mixed",
+      "force_direction": [
+        0.41402536963242415,
+        -0.6673918332761225,
+        0.619008185872425
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.8442934590824742,
+        -0.45237365708554816,
+        0.28727448429263097
+      ],
+      "relative_scale": 0.55,
+      "seed": 104,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_105",
+      "composition": "mixed",
+      "force_direction": [
+        0.8140872505743763,
+        -0.25211389020082287,
+        0.5231639655213844
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.7716007064525664,
+        0.15896915784420884,
+        0.615923011955393
+      ],
+      "relative_scale": 0.55,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_105",
+      "composition": "mixed",
+      "force_direction": [
+        0.8140872505743763,
+        -0.25211389020082287,
+        0.5231639655213844
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.7716007064525664,
+        0.15896915784420884,
+        0.615923011955393
+      ],
+      "relative_scale": 0.55,
+      "seed": 105,
+      "stage": "confirmation"
+    },
+    {
+      "candidate_id": "mixed_holdout_105",
+      "composition": "mixed",
+      "force_direction": [
+        0.8140872505743763,
+        -0.25211389020082287,
+        0.5231639655213844
+      ],
+      "mode": "oracle",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        -0.7716007064525664,
+        0.15896915784420884,
+        0.615923011955393
+      ],
+      "relative_scale": 0.55,
+      "seed": 105,
+      "stage": "confirmation"
+    }
+  ],
+  "schema_version": 1,
+  "sha256": "77084a809c01e6d41c8d7e7317d2171992504eb0a120155413a87803522c01d1",
+  "stage": "confirmation"
+}

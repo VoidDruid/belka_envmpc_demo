@@ -1,0 +1,367 @@
+{
+  "cases": [
+    {
+      "candidate_id": "force_only_f0p005",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.005,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "force_only_f0p005",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.005,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "force_only_f0p015",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.015,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "force_only_f0p015",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.015,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "force_only_f0p03",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "force_only_f0p03",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "moment_only_f0p005",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.005,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "moment_only_f0p005",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.005,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "moment_only_f0p015",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.015,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "moment_only_f0p015",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.015,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "moment_only_f0p03",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "moment_only_f0p03",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "mixed_f0p005",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.005,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "mixed_f0p005",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.005,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "mixed_f0p015",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.015,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "mixed_f0p015",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.015,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "mixed_f0p03",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    },
+    {
+      "candidate_id": "mixed_f0p03",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.25,
+      "modulation_frequency_hz": 0.03,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "bandwidth"
+    }
+  ],
+  "schema_version": 1,
+  "sha256": "81b7a36cec584af0ce917752420ce677afbb0486cfc961d733075519a69c3822",
+  "stage": "bandwidth"
+}

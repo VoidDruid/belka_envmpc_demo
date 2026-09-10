@@ -1,0 +1,727 @@
+{
+  "cases": [
+    {
+      "candidate_id": "force_x_s35",
+      "composition": "force_only",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_x_s35",
+      "composition": "force_only",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_x_s55",
+      "composition": "force_only",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_x_s55",
+      "composition": "force_only",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_y_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_y_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_y_s55",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_y_s55",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_z_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_z_s35",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_z_s55",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "force_z_s55",
+      "composition": "force_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_x_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_x_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_x_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_x_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_y_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_y_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_y_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_y_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_z_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_z_s35",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_z_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "moment_z_s55",
+      "composition": "moment_only",
+      "force_direction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_xy_s35",
+      "composition": "mixed",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_xy_s35",
+      "composition": "mixed",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_xy_s55",
+      "composition": "mixed",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_xy_s55",
+      "composition": "mixed",
+      "force_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_yz_s35",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_yz_s35",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_yz_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_yz_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_zx_s35",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_zx_s35",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.35,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_zx_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "ignore",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    },
+    {
+      "candidate_id": "mixed_zx_s55",
+      "composition": "mixed",
+      "force_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mode": "estimate",
+      "modulation_amplitude": 0.0,
+      "modulation_frequency_hz": 0.0,
+      "moment_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "relative_scale": 0.55,
+      "seed": 0,
+      "stage": "screening"
+    }
+  ],
+  "schema_version": 1,
+  "sha256": "ba3e1337b662b3b4645da20de73e9c12da4f78e398420d1f804fe3879aba4aab",
+  "stage": "screening"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco model="belka3d">
+  <compiler angle="radian" coordinate="local" inertiafromgeom="false"/>
+  <option timestep="0.002" gravity="0 0 0" integrator="RK4"/>
+  <size njmax="1000" nconmax="100"/>
+  <default>
+    <joint damping="0.0" armature="0.0"/>
+    <geom friction="0 0 0" rgba="0.7 0.7 0.7 1"/>
+    <site rgba="1 0.2 0.2 1" size="0.012"/>
+    <general ctrllimited="true" ctrlrange="0 {{ max_force }}" gaintype="fixed"/>
+  </default>
+
+  <worldbody>
+    <geom name="ground" type="plane" size="2.5 2.5 0.1" rgba="0.95 0.95 0.95 1" contype="0" conaffinity="0"/>
+
+    <body name="belka">
+      <freejoint name="root"/>
+      <inertial
+        pos="{{ r_cm_body[0] }} {{ r_cm_body[1] }} {{ r_cm_body[2] }}"
+        mass="{{ m }}"
+        fullinertia="{{ I_body[0][0] }} {{ I_body[1][1] }} {{ I_body[2][2] }} {{ I_body[0][1] }} {{ I_body[0][2] }} {{ I_body[1][2] }}"/>
+
+{% for geom in geoms %}
+      <geom name="{{ geom.name }}" type="box"
+        pos="{{ geom.pos[0] }} {{ geom.pos[1] }} {{ geom.pos[2] }}"
+        size="{{ geom.size[0] }} {{ geom.size[1] }} {{ geom.size[2] }}"
+        rgba="{{ geom.rgba }}" contype="0" conaffinity="0"/>
+{% endfor %}
+{% for geom in front_arrow_geoms %}
+{% if geom.type == "capsule" %}
+      <geom name="{{ geom.name }}" type="capsule"
+        fromto="{{ geom.fromto[0] }} {{ geom.fromto[1] }} {{ geom.fromto[2] }} {{ geom.fromto[3] }} {{ geom.fromto[4] }} {{ geom.fromto[5] }}"
+        size="{{ geom.size }}" rgba="{{ geom.rgba }}" contype="0" conaffinity="0"/>
+{% else %}
+      <geom name="{{ geom.name }}" type="sphere"
+        pos="{{ geom.pos[0] }} {{ geom.pos[1] }} {{ geom.pos[2] }}"
+        size="{{ geom.size }}" rgba="{{ geom.rgba }}" contype="0" conaffinity="0"/>
+{% endif %}
+{% endfor %}
+
+{% for site in sites %}
+      <site name="{{ site.name }}" pos="{{ site.pos[0] }} {{ site.pos[1] }} {{ site.pos[2] }}" />
+{% endfor %}
+    </body>
+  </worldbody>
+
+  <actuator>
+{% for actuator in actuators %}
+    <general name="{{ actuator.name }}" site="{{ actuator.site }}" gear="{{ actuator.direction[0] }} {{ actuator.direction[1] }} {{ actuator.direction[2] }} 0 0 0"/>
+{% endfor %}
+  </actuator>
+</mujoco>

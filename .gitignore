@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+build/
+out/
+acados_ocp.json
+c_generated_code/

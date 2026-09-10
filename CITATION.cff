@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "EnvMPC: reproducible MuJoCo experiments for the BELKA robot"
+type: software
+authors:
+  - family-names: Beschastnov
+    given-names: Igor Vladimirovich
+    email: beschastnovigor@yandex.ru
+  - family-names: Tyurin
+    given-names: Rostislav Ruslanovich
+repository-code: "https://git.spacehub.su/Belka/envmpc_demo"
+version: 1.0.0
+date-released: 2026-09-10
+license: MIT

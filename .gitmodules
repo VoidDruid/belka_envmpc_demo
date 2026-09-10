@@ -1,0 +1,3 @@
+[submodule "libs/acados"]
+	path = libs/acados
+	url = https://github.com/acados/acados.git

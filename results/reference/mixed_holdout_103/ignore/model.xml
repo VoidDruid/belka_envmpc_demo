@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco model="belka3d">
+  <compiler angle="radian" coordinate="local" inertiafromgeom="false"/>
+  <option timestep="0.002" gravity="0 0 0" integrator="RK4"/>
+  <size njmax="1000" nconmax="100"/>
+  <default>
+    <joint damping="0.0" armature="0.0"/>
+    <geom friction="0 0 0" rgba="0.7 0.7 0.7 1"/>
+    <site rgba="1 0.2 0.2 1" size="0.012"/>
+    <general ctrllimited="true" ctrlrange="0 0.14681386622783454" gaintype="fixed"/>
+  </default>
+
+  <worldbody>
+    <geom name="ground" type="plane" size="2.5 2.5 0.1" rgba="0.95 0.95 0.95 1" contype="0" conaffinity="0"/>
+
+    <body name="belka">
+      <freejoint name="root"/>
+      <inertial
+        pos="0.0 0.0 0.0"
+        mass="4.0"
+        fullinertia="0.07260000000000001 0.07260000000000001 0.07260000000000001 0.0 0.0 0.0"/>
+
+
+      <geom name="left_side" type="box"
+        pos="0.0 -0.0825 0.0"
+        size="0.165 0.0825 0.165"
+        rgba="0.2 0.4 0.9 1" contype="0" conaffinity="0"/>
+
+      <geom name="right_side" type="box"
+        pos="0.0 0.0825 0.0"
+        size="0.165 0.0825 0.165"
+        rgba="0.2 0.4 0.9 1" contype="0" conaffinity="0"/>
+
+
+
+
+      <site name="thr0" pos="-0.165 -0.115 0.115" />
+
+      <site name="thr1" pos="-0.165 0.115 -0.115" />
+
+      <site name="thr2" pos="0.165 0.115 0.115" />
+
+      <site name="thr3" pos="0.165 -0.115 -0.115" />
+
+      <site name="thr4" pos="0.115 -0.165 0.115" />
+
+      <site name="thr5" pos="-0.115 -0.165 -0.115" />
+
+      <site name="thr6" pos="-0.115 0.165 0.115" />
+
+      <site name="thr7" pos="0.115 0.165 -0.115" />
+
+      <site name="thr8" pos="-0.115 -0.115 -0.165" />
+
+      <site name="thr9" pos="0.115 0.115 -0.165" />
+
+      <site name="thr10" pos="-0.115 -0.115 0.165" />
+
+      <site name="thr11" pos="0.115 0.115 0.165" />
+
+    </body>
+  </worldbody>
+
+  <actuator>
+
+    <general name="F1" site="thr0" gear="1.0 0.0 0.0 0 0 0"/>
+
+    <general name="F2" site="thr1" gear="1.0 0.0 0.0 0 0 0"/>
+
+    <general name="F3" site="thr2" gear="-1.0 0.0 0.0 0 0 0"/>
+
+    <general name="F4" site="thr3" gear="-1.0 0.0 0.0 0 0 0"/>
+
+    <general name="F5" site="thr4" gear="0.0 1.0 0.0 0 0 0"/>
+
+    <general name="F6" site="thr5" gear="0.0 1.0 0.0 0 0 0"/>
+
+    <general name="F7" site="thr6" gear="0.0 -1.0 0.0 0 0 0"/>
+
+    <general name="F8" site="thr7" gear="0.0 -1.0 0.0 0 0 0"/>
+
+    <general name="F9" site="thr8" gear="0.0 0.0 1.0 0 0 0"/>
+
+    <general name="F10" site="thr9" gear="0.0 0.0 1.0 0 0 0"/>
+
+    <general name="F11" site="thr10" gear="0.0 0.0 -1.0 0 0 0"/>
+
+    <general name="F12" site="thr11" gear="0.0 0.0 -1.0 0 0 0"/>
+
+  </actuator>
+</mujoco>
