@@ -1,8 +1,12 @@
 # Preview: real experiments
 
-https://github.com/user-attachments/assets/884575ce-0c42-4f09-85f9-9a640e744112
+**Flight 1 - straight line**
 
 https://github.com/user-attachments/assets/e1ee9e29-17c6-4153-9de2-ada54163c36a
+
+**Flight 2 - along the border**
+
+https://github.com/user-attachments/assets/884575ce-0c42-4f09-85f9-9a640e744112
 
 # EnvMPC MuJoCo demo for the BELKA robot
 
