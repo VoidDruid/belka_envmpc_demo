@@ -1,3 +1,9 @@
+# Preview: real experiments
+
+https://github.com/user-attachments/assets/884575ce-0c42-4f09-85f9-9a640e744112
+
+https://github.com/user-attachments/assets/e1ee9e29-17c6-4153-9de2-ada54163c36a
+
 # EnvMPC MuJoCo demo for the BELKA robot
 
 Minimal reproducible source and numerical results for the article
